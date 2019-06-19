@@ -2,4 +2,5 @@ rencana kontent
 -mobile game
 1. game adventure
 2. aplikasi sederhana
+-struktur 
 -komik
