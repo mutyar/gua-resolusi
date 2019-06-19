@@ -6,3 +6,4 @@ rencana kontent
 -komik
 -framework
  1.laravel
+ 2.react
