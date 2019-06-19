@@ -4,3 +4,5 @@ rencana kontent
 2. aplikasi sederhana
 -struktur 
 -komik
+-framework
+ 1.laravel
